@@ -4,10 +4,15 @@ Joan Bono
 
 joan.bono@soyteleco.net
 
-Filtro anti AEDE para Linux
+Script Filtro anti AEDE para Linux
 
 Copiar en fichero hosts de Linux
 En la terminal (root):
 
-  <pre>nano /etc/hosts</pre>
+  <pre>sh antiaede-v1.sh</pre>
+  
+O dando permisos:
+
+  <pre>chmod +x antiaede-v1.sh</pre>
+  <pre>./antiaede-v1.sh</pre>
    
