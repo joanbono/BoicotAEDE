@@ -1,10 +1,10 @@
 ###########################
 #   FILTRO ANTI-MORDAZA   #
-# 			                  #
+#                         #
 #      BOICOT AEDE        #
 # joan.bono@soyteleco.net #
-#			                    #
-#	  antiaede-v1.sh        #
+#			   #
+#	  antiaede-v1.s    #
 ###########################
 
 cat BoicotAEDE.txt >> /etc/hosts
