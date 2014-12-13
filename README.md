@@ -6,7 +6,7 @@ joan.bono@soyteleco.net
 
 Script Filtro anti AEDE para Linux
 
-Copiar en fichero hosts de Linux
+Ejecutar script en bash en Linux.
 En la terminal (root):
 
   <pre>sh antiaede-v1.sh</pre>
